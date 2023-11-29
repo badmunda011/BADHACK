@@ -148,7 +148,7 @@ logging.basicConfig(level=logging.WARNING)
 channel = "AbhiModszYT_Return"
 menu = '''
 ┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
+┣ Cʀᴇᴀᴛᴇʀ -> @ABT_BAD
 ┣ Uᴘᴅᴀᴛᴇꜱ -> @AmBotYT
 ┗━━━━━━━━━❥
 **Updates JOIN @AmBotYT**
