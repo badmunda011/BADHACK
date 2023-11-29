@@ -26,7 +26,7 @@
 ------
 # Deploy To Heroku
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://dashboard.heroku.com/apps/badmundaspam)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/badmunda011/BADHACK)
 
 ## Credits
 
