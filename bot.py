@@ -145,13 +145,10 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "AbhiModszYT_Return"
+channel = "ABT_BAD"
 menu = '''
-┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @ABT_BAD
-┣ Uᴘᴅᴀᴛᴇꜱ -> @AmBotYT
-┗━━━━━━━━━❥
-**Updates JOIN @AmBotYT**
+𝐌𝐲 𝐑𝐞𝐩𝐨 ➪ **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ABT_BAD) 💞**\n📡 𝐌𝐚𝐝𝐞 𝐁𝐲 ➪ **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II)** 💞"
+**Updates JOIN *@THE_DRAMA_CLUB_01*
 
 
 
@@ -182,24 +179,11 @@ L: [Promote a member in a group/channel]
 M: [Change Phone number using StringSession]
 
 I ADD MORE FEATURES LATER 
-┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ About   -> @About_AMBot
-┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ About   -> @About_AMBot
-┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ About   -> @About_AMBot
-┣ Cʀᴇᴀᴛᴇʀ -> @am_YTbott
-┣ About   -> @About_AMBot
-┗━━━━━━━━━❥
+𝙾𝚠𝚗𝚎𝚛 **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II)**
 
 '''
 mm = '''
- 𝐌𝐚𝐝𝐞 𝐁𝐲 ➪ **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II)** 
-i can hack anybody
-Take his StringSession and use me
-I will give you full power of mine
-Type /hack 
+ɪ ᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ʜᴀᴄᴋ ʙᴏᴛ /hack 
 '''
 @client.on(events.NewMessage(pattern="/start"))
 async def op(event):
