@@ -1,15 +1,15 @@
 {
-    "name": "AMBOT",
+    "name": "BADMUNDA",
     "description": "A bot can hack your telegram id just through string session",
     "logo": "",
     "keywords": [
         "TELETHON",
-        "AMBOT",
+        "BADMUNDA",
         "Telegram Bot",
-        "AbhiModszYT"
+        "THE_DRAMA_CLUB_01"
     ],
     "website": "",
-    "success_url": "https://t.me/AbhiModszYT_Return",
+    "success_url": "https://t.me/THE_DRAMA_CLUB_01",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
