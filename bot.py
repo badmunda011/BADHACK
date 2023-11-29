@@ -387,50 +387,7 @@ async def start(event):
     else:
       await event.respond("Wrong Text Found Re type /hack and use")
 
-@app.on_message(filters.command("hack"))
-async def start(_, msg):
-    buttons = [
-        [ 
-          InlineKeyboardButton("🙈𝐀∂∂ 𝐌є🙈", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
-        ],
 
-        [
-           InlineKeyboardButton("🎵 𝐌υѕι¢ 𝐁σт 🎵", url=f"https://t.me/BAD_BBY_01_BOT")
-        ],
-        [ 
-          InlineKeyboardButton("👻 𝐌αиαgємєит 𝐁σт 👻", url=f"https://t.me/BAD_BBY_02_BOT")
-        ],
-        [
-            InlineKeyboardButton("😈 𝐒тяιиg 𝐁σт 😈", url=f"https://t.me/BAD_STRING_SESSION_BOT")
-        ],
-        [
-            InlineKeyboardButton("☠ 𝐒тяιиg 𝐇α¢к 𝐁σт ☠", url=f"https://t.me/BAD_STRING_SESSION_HACK_BOT")
-        ],
-        [
-            InlineKeyboardButton("🌲 𝐆яσυρ 🌲", url=f"https://t.me/THE_DRAMA_CLUB_01")
-        ],
-        [
-            InlineKeyboardButton("🦋 𝐂нαииєℓ 🦋", url=f"https://t.me/ABT_BAD")
-        ],
-        [
-            InlineKeyboardButton("😎 𝐔ѕтα∂  𝐉ι 😎", url=f"https://t.me/II_BAD_MUNDA_II")
-        ]]
-            
-            
     
-        
-    
-    reply_markup = InlineKeyboardMarkup(buttons)
-    
-    await msg.reply_photo(
-        photo="https://te.legra.ph/file/e25a563619c653328830d.jpg",
-        caption=start_txt,
-        reply_markup=reply_markup
-    )
-    
-
-
-
-
 
 client.run_until_disconnected()
