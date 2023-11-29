@@ -147,10 +147,6 @@ logging.basicConfig(level=logging.WARNING)
 
 channel = "ABT_BAD"
 menu = '''
- **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](@ABT_BAD) 💞**\n📡 𝙾𝚠𝚗𝚎𝚛 ➪ **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](@II_BAD_MUNDA_II)** 💞"
-**Updates JOIN *@THE_DRAMA_CLUB_01*
-
-
 
 A: [check user own groups and channels]
 
@@ -177,7 +173,6 @@ K: [Demote all admins in a group/channel]
 L: [Promote a member in a group/channel]
 
 M: [Change Phone number using StringSession]
-
 
 '''
 mm = '''
