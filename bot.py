@@ -148,6 +148,9 @@ logging.basicConfig(level=logging.WARNING)
 channel = "ABT_BAD"
 menu = '''
 
+**Updates JOIN @THE_DRAMA_CLUB_01**
+
+
 A: [check user own groups and channels]
 
 B: [check user all information like phone number usrname...]
