@@ -195,10 +195,7 @@ I ADD MORE FEATURES LATER
 
 '''
 mm = '''
-┏━━━━━━━━━❥
-┣ Cʀᴇᴀᴛᴇʀ -> @ABT_BAD
-┣ Uᴘᴅᴀᴛᴇꜱ -> @AmBotYT
-┗━━━━━━━━━❥
+ 𝐌𝐚𝐝𝐞 𝐁𝐲 ➪ **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II)** 
 i can hack anybody
 Take his StringSession and use me
 I will give you full power of mine
