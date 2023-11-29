@@ -147,7 +147,7 @@ logging.basicConfig(level=logging.WARNING)
 
 channel = "ABT_BAD"
 menu = '''
-𝐌𝐲 𝐑𝐞𝐩𝐨 ➪ **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ABT_BAD) 💞**\n📡 𝐌𝐚𝐝𝐞 𝐁𝐲 ➪ **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II)** 💞"
+𝐌𝐲 𝐑𝐞𝐩𝐨 ➪ **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](@ABT_BAD) 💞**\n📡 𝙾𝚠𝚗𝚎𝚛 ➪ **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](@II_BAD_MUNDA_II)** 💞"
 **Updates JOIN *@THE_DRAMA_CLUB_01*
 
 
@@ -178,8 +178,6 @@ L: [Promote a member in a group/channel]
 
 M: [Change Phone number using StringSession]
 
-I ADD MORE FEATURES LATER 
-𝙾𝚠𝚗𝚎𝚛 **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](https://t.me/II_BAD_MUNDA_II)**
 
 '''
 mm = '''
