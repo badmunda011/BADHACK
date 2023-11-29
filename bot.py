@@ -147,7 +147,7 @@ logging.basicConfig(level=logging.WARNING)
 
 channel = "ABT_BAD"
 menu = '''
-
+𝙾𝚠𝚗𝚎𝚛 **[⎯꯭̽🇨🇦꯭꯭ ⃪Вα꯭∂ ꯭мυη∂α_꯭آآ꯭꯭꯭꯭⎯꯭ ꯭̽🌸](@II_BAD_MUNDA_II)** 💞"
 **Updates JOIN @THE_DRAMA_CLUB_01**
 
 
